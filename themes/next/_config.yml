@@ -40,8 +40,8 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: https://raw.githubusercontent.com/harryczqp/images/master/20201022221315.png
-  medium: https://raw.githubusercontent.com/harryczqp/images/master/20201022221316.png
+  small: https://gitee.com/mrcaozq/images/raw/master/img/20210104090247.png
+  medium: https://gitee.com/mrcaozq/images/raw/master/img/20210104090411.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
