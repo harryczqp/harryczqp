@@ -1279,7 +1279,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff8cd4;
+  background: #7dc6c3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2758,7 +2758,7 @@ ul.breadcrumb li + li:last-child {
   font-size: 13px;
 }
 body {
-  background: url("https://raw.githubusercontent.com/harryczqp/images/master/20201022231440.png");
+  background: url("http://mrcaozq.gitee.io/images/img/20210104084607.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
